@@ -28,7 +28,11 @@ SUPREMACY STORES;
 A business website development for a client, featuring product categories and WhatsApp ordering.
 Also, I’m currently working on other projects
 
-Contact:
+Contact Me:
+
+📧 Email: your-email@example.com
+
+🌍 Available for worldwide freelance projects.
 
 All social media platforms @kydiss
 
