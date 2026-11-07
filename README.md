@@ -1,9 +1,12 @@
-Kydis Kirui | Web DEVELOPER
+Kydis Kirui | WEB DEVELOPER
+
+
 Hello! Welcome to my GitHub profile!
 
 Iam a webdeveloper focused on creating mordern, responsive and user-friendly websites for business and individuals wordwide.
 
-My Skills
+My Skills:
+
 - HTML5-Website structure
 - -CSS3-Website styling and responsive design
 - -JavaScript-Website interactivity
@@ -11,18 +14,22 @@ My Skills
 - GitHub-Project management add collaboration
 - VS Code-Code editing
 
-My Services
+My Services:
+
 - Business website development
 - Landing page development
 - Website redesign
 - Front-end development
 - Website deploymen
 -
-Featured Projects
-SUPREMACY STORES
-A business website development for a client, featuring product categories and WhatsApp ordering.
-🔭Also, I’m currently working on other projects
+Featured Projects:
 
-Contact
+SUPREMACY STORES;
+A business website development for a client, featuring product categories and WhatsApp ordering.
+Also, I’m currently working on other projects
+
+Contact:
+
 All social media platforms @kydiss
+
 Available for freelance projects and remorte opportunities wordwide.
