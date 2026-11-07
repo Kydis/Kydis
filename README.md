@@ -30,7 +30,7 @@ Also, I’m currently working on other projects
 
 Contact Me:
 
-📧 Email: your-email@example.com
+📧 Email: Kydiskirui@gmail.com
 
 🌍 Available for worldwide freelance projects.
 
