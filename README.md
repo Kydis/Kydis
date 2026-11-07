@@ -1,16 +1,28 @@
-## Hi there 👋
+Kydis Kirui | Web DEVELOPER
+Hello! Welcome to my GitHub profile!
 
-<!--
-**Kydis/Kydis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iam a webdeveloper focused on creating mordern, responsive and user-friendly websites for business and individuals wordwide.
 
-Here are some ideas to get you started:
+My Skills
+- HTML5-Website structure
+- -CSS3-Website styling and responsive design
+- -JavaScript-Website interactivity
+- Git-Version control
+- GitHub-Project management add collaboration
+- VS Code-Code editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Services
+- Business website development
+- Landing page development
+- Website redesign
+- Front-end development
+- Website deploymen
+-
+Featured Projects
+SUPREMACY STORES
+A business website development for a client, featuring product categories and WhatsApp ordering.
+🔭Also, I’m currently working on other projects
+
+Contact
+All social media platforms @kydiss
+Available for freelance projects and remorte opportunities wordwide.
